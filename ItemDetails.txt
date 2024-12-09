@@ -1,0 +1,5 @@
+ItemID,ItemName,Category,Price/unit,AvailableQuantity,DiscountApplicable
+1,Dove,Conditioner,100,4000,Yes
+2,Keto,Conditioner,100,10000,Yes
+3,Lux,Soap,15,1000,No
+4,Dove,Soap,30,100,Yes
